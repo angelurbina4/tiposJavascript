@@ -132,3 +132,5 @@ for(var i=0; i < gastos.length; i++) {
 }
 
 console.log(totalGastos);
+
+z
